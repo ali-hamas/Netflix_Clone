@@ -1,6 +1,6 @@
 # Netflix Clone
 
-![Netflix Clone Screenshot](/Images/Netflix%20Homepage.png)
+![Netflix Clone Screenshot](/Images/Netflix%_Homepage.png)
 
 This is a simple Netflix clone project created with pure HTML and CSS. It replicates the Netflix homepage.
 

@@ -67,4 +67,4 @@ Contributions are welcome! Feel free to open issues and pull requests to improve
 
 ## Stats
 
-[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alihamasgh&layout=compact)](https://github.com/alihamasgh/Netflix-Clone)
+[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hamas&layout=compact)](https://github.com/ali-hamas/Netflix.git)

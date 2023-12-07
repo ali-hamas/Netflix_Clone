@@ -15,9 +15,7 @@ This is a simple Netflix clone project created with pure HTML and CSS. It replic
 
 ## Demo
 
-<!-- You can see a live demo of this project [here](https://your-demo-link.com). -->
-
-Will added this to my [portfolio website](https://alihamas.com) or in github pages in future nearby.
+Will added this to my [portfolio website](http://alihamas.com) or in github pages in future nearby.
 
 ## Features
 

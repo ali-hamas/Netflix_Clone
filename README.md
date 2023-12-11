@@ -37,13 +37,13 @@ To get a local copy of this project up and running, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/ali-hamas/Netflix.git
+   git clone https://github.com/ali-hamas/Netflix_Clone.git
    ```
 
 2. Open the project directory:
 
    ```bash
-   cd Netflix
+   cd Netflix_Clone
    ```
 
 3. Open the `index.html` file in your web browser to view the Netflix clone.

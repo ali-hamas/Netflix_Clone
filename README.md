@@ -28,6 +28,8 @@ Will added this to my [portfolio website](http://alihamas.com) or in github page
 - CSS3
 - JavaScript
 
+[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hamas&layout=compact)](https://github.com/ali-hamas/Netflix.git)
+
 ## Getting Started
 
 To get a local copy of this project up and running, follow these steps:
@@ -64,7 +66,3 @@ Contributions are welcome! Feel free to open issues and pull requests to improve
 3. Make your changes and commit them: git commit -m 'Add feature'.
 4. Push to the branch: git push origin feature-name.
 5. Submit a pull request.
-
-## Stats
-
-[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hamas&layout=compact)](https://github.com/ali-hamas/Netflix.git)

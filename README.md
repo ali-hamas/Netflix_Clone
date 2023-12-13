@@ -2,7 +2,7 @@
 
 ![Netflix Clone Screenshot](/Images/netflix_home_page.png)
 
-This is a simple Netflix clone project created with pure HTML and CSS. It replicates the Netflix homepage.
+This is a simple Netflix clone project created with pure HTML, CSS & JavaScript. It replicates the Netflix homepage.
 
 ## Table of Contents
 
@@ -15,12 +15,14 @@ This is a simple Netflix clone project created with pure HTML and CSS. It replic
 
 ## Demo
 
-Will added this to my [portfolio website](http://alihamas.com) or in github pages in future nearby.
+Go to my [portfolio website](http://alihamas.com/projects/netflix_clone) for Netflix clone demo.
 
 ## Features
 
-- ✨ Replicates the Netflix homepage.
-- 💻 Created using pure HTML and CSS.
+- Replicates the Netflix homepage.
+- Having a same subscription form as in Netflix.
+- Having the same clickable question answers at the end.
+-
 
 ## Technologies
 
@@ -54,7 +56,7 @@ You can use this project as a learning resource to:
 
 - Study how to structure and style a web page.
 - Understand the principles of web design.
-- Experiment with CSS techniques used in the project.
+- Experiment with Js techniques used in the project.
 - Feel free to modify and adapt it to your needs. If you have any suggestions for improvements, please share them!
 
 ## Contribute
